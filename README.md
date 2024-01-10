@@ -1,1 +1,1 @@
-All my react learning are stored here in the form of code and comments
+All of my react learnings are stored here in the form of code and comments
